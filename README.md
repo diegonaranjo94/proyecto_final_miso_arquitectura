@@ -2,7 +2,7 @@
 
 This is a graduation project for Master's of Engineering in Software. The scope of this project is limited to design the ERP system that a company needs to improve it's logistics and inventory. It was crated in a team of 4 members part of the same program. To see more about the team and the real development process yo can visit the original repo [here](https://github.com/proyectoFinalMiso/proyecto_final_miso_arquitectura)
 
-This project was develop in 8 weeks and every week has its delivarables following the next structure:
+This project was developed in 8 weeks and every week has its delivarables following the next structure:
 
 - Project Constitution.
 - General architectural vision and testing strategy.
