@@ -2,6 +2,16 @@
 
 This is a graduation project for Master's of Engineering in Software. The scope of this project is limited to design the ERP system that a company needs to improve it's logistics and inventory. It was crated in a team of 4 members part of the same program. To see more about the team and the real development process yo can visit the original repo [here](https://github.com/proyectoFinalMiso/proyecto_final_miso_arquitectura)
 
+This project was develop in 8 weeks and every week has its delivarables following the next structure:
+
+- Project Constitution.
+- General architectural vision and testing strategy.
+- Main user and architectural user stories for architectural and development stage (following scrum frame).
+- Architectural style definition, functional, deploy and informational architectural views.
+- Refined testing strategy.
+- Design of experiments and testing of architectural assumptions.
+- Experimental results.
+
 Main documents you can check to understand more abour the project:
 
 - [Project constitution](https://github.com/diegonaranjo94/proyecto_final_miso_arquitectura/blob/main/Docs/acta_constitucion.pdf).
